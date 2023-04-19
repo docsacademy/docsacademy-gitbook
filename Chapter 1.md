@@ -1,4 +1,4 @@
-# Documentation for My Product 1
+# Documentation for My Product 1 - Chapter 1
 
 Introducing **My Product**, the all-in-one solution for your everyday needs. With **My Product**, you can simplify your life by managing your
 
